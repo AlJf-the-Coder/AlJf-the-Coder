@@ -1,40 +1,36 @@
 ## Hi there 👋
 
-I'm Ali. I'm a graduating 4th year BS Computer Science at UP Diliman.
+I'm Ali. I'm a graduating 4th year BS Computer Science at UP Diliman. Always looking to learn more and sharpen my skills. I'm here to make practical and aesthetically pleasing websites and applications.
 
-I have experience with various programming languages including: Python, C, C++, Javascript and Typescript. I also have experience with databases using MySQL and Firebase and the Svelte framework for web development. 
+Programming languages including: Python, C, C++, Javascript and Typescript. 
+Frameworks: Svelte
+Databases: MySQL and Firebase.
 
-Current projects:
-CCTV Shoplifting Detection using AI/ML
-Simple 3D Rendering using SDL and CUDA C++.
 
-Interests:
+## I'm currently working on 💻:
+1. [CCTV Shoplifting Detection](https://github.com/AlJf-the-Coder/cctv-shoplifting-detection): An app that can classify shoplifters using AI/ML for my thesis.
+2. [Simple 3D Renderer](https://github.com/AlJf-the-Coder/simple-3d-renderer): An app that does basic rendering and transformation of 3d models using SDL and CUDA C++.
+
+## Projects
+1. [TeddyCare](https://github.com/inunice/teddycare): A cuddly teddy bear that can simulate a mother's heartbeat using Internet of Things technology.
+2. [Student Finance Tracker](https://github.com/JericN/Student-Finance-Tracker) : A web app for tracking spending habits made with Svelte for one of our classes.
+3. [Community Pantry Tweets Analysis](https://cs132group56.github.io/Group-56-Portfolio/): An analysis of misinformation in tweets on community pantries in the Philippines during the pandemic.
+
+
+## Interests ✨
 1. Web Development
 2. Software Development
-3. Quality Assurance.
-4. Game Development
+3. Quality Assurance
+4. Artificial Intelligence
+5. Game Development
 
-Hobbies:
+## Hobbies ✏️
 1. Video Games
 2. Watching Anime
-3. Solving Puzzles
+3. Solving Puzzles: I like puzzle games and solving competitive programming problems
 4. Art
 
-Goals:
-1. Become a Full Stack Developer
+## Goals 🎯
+1. Become proficient in Full Stack Development
 2. Learn an instrument
 3. Get N1 certification in Japanese
-
-**AlJf-the-Coder/AlJf-the-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
