@@ -27,10 +27,5 @@ Databases: MySQL and Firebase.
 ## Hobbies ✏️
 1. Video Games
 2. Watching Anime
-3. Solving Puzzles: I like puzzle games and solving competitive programming problems
-4. Art
-
-## Goals 🎯
-1. Become proficient in Full Stack Development
-2. Learn an instrument
-3. Get N1 certification in Japanese
+3. Solving Puzzles and Competitive Programming problems
+4. Drawing
