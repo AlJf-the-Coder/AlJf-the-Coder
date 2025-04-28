@@ -7,11 +7,11 @@ Frameworks: Svelte
 Databases: MySQL and Firebase.
 
 
-## I'm currently working on 💻:
+## I'm currently working on 🖱️:
 1. [CCTV Shoplifting Detection](https://github.com/AlJf-the-Coder/cctv-shoplifting-detection): An app that can classify shoplifters using AI/ML for my thesis.
 2. [Simple 3D Renderer](https://github.com/AlJf-the-Coder/simple-3d-renderer): An app that does basic rendering and transformation of 3d models using SDL and CUDA C++.
 
-## Projects
+## Projects 💻
 1. [TeddyCare](https://github.com/inunice/teddycare): A cuddly teddy bear that can simulate a mother's heartbeat using Internet of Things technology.
 2. [Student Finance Tracker](https://github.com/JericN/Student-Finance-Tracker) : A web app for tracking spending habits made with Svelte for one of our classes.
 3. [Community Pantry Tweets Analysis](https://cs132group56.github.io/Group-56-Portfolio/): An analysis of misinformation in tweets on community pantries in the Philippines during the pandemic.
