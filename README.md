@@ -1,13 +1,15 @@
 ## Hi there 👋
 
-I'm Ali. I'm a graduating 4th year BS Computer Science at UP Diliman. Always looking to learn more and sharpen my skills. I'm here to make practical and aesthetically pleasing websites and applications.
+I'm Ali. I'm 4th year BS Computer Science (graduating) student at UP Diliman. Always looking to learn more and sharpen my knowledge and skills. I'm here to make practical and user-friendly websites and applications.
 
-Programming languages including: Python, C, C++, Javascript and Typescript. 
-Frameworks: Svelte
-Databases: MySQL and Firebase.
+**Programming languages**: Python, C, C++, Javascript and Typescript
+
+**Frameworks**: Svelte
+
+**Backend Technology**: MySQL and Firebase
 
 
-## I'm currently working on 🖱️:
+## I'm currently working on ⌨️:
 1. [CCTV Shoplifting Detection](https://github.com/AlJf-the-Coder/cctv-shoplifting-detection): An app that can classify shoplifters using AI/ML for my thesis.
 2. [Simple 3D Renderer](https://github.com/AlJf-the-Coder/simple-3d-renderer): An app that does basic rendering and transformation of 3d models using SDL and CUDA C++.
 
@@ -21,11 +23,15 @@ Databases: MySQL and Firebase.
 1. Web Development
 2. Software Development
 3. Quality Assurance
-4. Artificial Intelligence
-5. Game Development
+4. Automation
+5. Artificial Intelligence
+6. Computer Graphics
+7. Game Development
 
 ## Hobbies ✏️
 1. Video Games
 2. Watching Anime
-3. Solving Puzzles and Competitive Programming problems
+3. Solving Puzzles
 4. Drawing
+5. Listening to Music
+   
