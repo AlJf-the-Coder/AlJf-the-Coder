@@ -15,7 +15,7 @@ I'm Ali. I'm 4th year BS Computer Science (graduating) student at UP Diliman. Al
 
 ## Projects 💻
 1. [TeddyCare](https://github.com/inunice/teddycare): A cuddly teddy bear that can simulate a mother's heartbeat using Internet of Things technology.
-2. [Student Finance Tracker](https://github.com/JericN/Student-Finance-Tracker) : A web app for tracking spending habits made with Svelte for one of our classes.
+2. [Student Finance Tracker](https://github.com/JericN/Student-Finance-Tracker) : A web app for tracking spending habits made with Svelte.
 3. [Community Pantry Tweets Analysis](https://cs132group56.github.io/Group-56-Portfolio/): An analysis of misinformation in tweets on community pantries in the Philippines during the pandemic.
 
 
